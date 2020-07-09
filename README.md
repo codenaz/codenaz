@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- I am Patrick, currently building software for firmatek cloud. My current job is helping me explore technologies around Maps, Images and geolocations.
+
+- I am currently learning swift so I can do more native developement. It's a pretty awesome language
+
+- Give my open source packages([React Paginator](https://github.com/codenaz/react-paginator) and [React multi image upload](https://github.com/codenaz/react-multiple-image-input)) a try, you might love them. 😄
+
+- Reach me on patricknwak@gmail.com or contact me through my [portfolio](https://emeka.dev)
+
+
 <!--
 **codenaz/codenaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
