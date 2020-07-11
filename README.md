@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am Patrick, currently building software for firmatek cloud. My current job is helping me explore technologies around Maps, Images and geolocations.
+- I am Patrick, currently building software for firmatek cloud. My current job is helping me explore technologies around maps, images and geolocations.
 
 - I am currently learning swift so I can do more native developement. It's a pretty awesome language
 
