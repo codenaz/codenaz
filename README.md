@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- I am Patrick, currently building software for firmatek cloud. My current job is helping me explore technologies around maps, images and geolocations.
+- I am Patrick, currently building software for Native Instruments. My current job is helping me explore technologies around music and shipping music software to users.
 
-- I am currently learning swift so I can do more native developement. It's a pretty awesome language
+- I am currently doing a lot of python and GCP
 
 - Give my open source packages([React Paginator](https://github.com/codenaz/react-paginator) and [React multi image upload](https://github.com/codenaz/react-multiple-image-input)) a try, you might love them. 😄
 
