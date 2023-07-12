@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- I am Patrick, currently building software for Native Instruments. My current job is helping me explore technologies around music and shipping music software to users.
+- I am Patrick, currently building software for Native Instruments. My current job is helping me explore technologies around music and shipping music tech to users.
 
-- I am currently doing a lot of python and GCP
+- I am currently working a lot with Python and GCP 
 
 - Give my open source packages([React Paginator](https://github.com/codenaz/react-paginator) and [React multi image upload](https://github.com/codenaz/react-multiple-image-input)) a try, you might love them. 😄
 
